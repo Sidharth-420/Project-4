@@ -8,3 +8,8 @@ venv/
 !.env.example
 db.sqlite3
 *.log
+# Database backups
+*.sql
+
+# Uploaded user files
+project4/project4/media/
